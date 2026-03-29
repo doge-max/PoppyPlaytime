@@ -1,0 +1,11 @@
+Model Information:
+* title:	Huggy Wuggy Normal With Animations
+* source:	https://sketchfab.com/3d-models/huggy-wuggy-normal-with-animations-d5d4bdb1e1ca4c2dbed988f90310c368
+* author:	Edward Johnson 3 (https://sketchfab.com/sirenhead1929)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Huggy Wuggy Normal With Animations" (https://sketchfab.com/3d-models/huggy-wuggy-normal-with-animations-d5d4bdb1e1ca4c2dbed988f90310c368) by Edward Johnson 3 (https://sketchfab.com/sirenhead1929) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
